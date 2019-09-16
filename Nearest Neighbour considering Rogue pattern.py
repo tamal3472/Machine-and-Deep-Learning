@@ -1,3 +1,7 @@
+#Rogue Pattern can lead chaos in the classification of k nearest neighbor or nearest neighbor classification. 
+#The simple possible solution is to measure average distance and then choose decision boundary. 
+#For details http://www.cs.science.cmu.ac.th/person/chumphol/204453/pr%203.pdf . 
+
 import math
 import numpy as np
 import matplotlib.pyplot, pylab
